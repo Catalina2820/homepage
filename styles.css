@@ -269,3 +269,19 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+/* extra styles */
+
+.additional-info__extra {
+    margin-bottom: 20px;
+  }
+  
+  .additional-info__extra-header {
+    color: var(--secondary-text-color);
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  
+  .additional-info__extra-item {
+    color: var(--secondary-text-color);
+  }
